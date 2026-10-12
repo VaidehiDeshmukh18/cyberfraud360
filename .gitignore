@@ -1,0 +1,11 @@
+.venv/
+data/raw/
+data/processed/
+data/external/
+models/
+mlruns/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
